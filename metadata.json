@@ -1,0 +1,6 @@
+{
+  "name": "Cartório Azevedo Martiniano · Controle de Gratuidades",
+  "description": "Sistema de controle de gratuidades e certidões do Cartório Azevedo Martiniano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
